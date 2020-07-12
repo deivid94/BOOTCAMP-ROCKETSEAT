@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+ 
+
+}
+
+body {
+  background: #1e1027;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+
+
+}
+:root {
+
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #18be58;
+}
+
+
+header .links{
+background: #3e3047cc;
+padding: 30px;
+border-bottom: 1px solid rgba(180, 169, 169, 0.486);
+}
+
+header .links a {
+  margin-right: 30px;
+  
+}
+
+ #wrapper {
+    padding: 30px;
+ }
+
+ #wrapper img {
+   border-radius: 50%;
+   border: 1px solid white;
+ }
+
+ /*inico estilizacao Pagina sobre */
+
+ .logo {        /*distanciamento e alinhamento do container da logo*/
+   padding: 30px;
+   width: 450px;
+   margin: 0 auto;
+ }
+
+ .logo img {  /*arredondamento da logo e borda*/
+  width: 300px;
+  border-radius:50%;
+  border: 2px solid #18be58;
+
+ }
+
+ /*inicio CONTEUDO*/
+ .conteudo {
+   margin: 30px;
+ }
+
+ .conteudo h1 {
+   font-size: 32px;
+   font-weight: bold;
+    color: #18be58;
+   
+ }
+
+ .conteudo p a { /*Link da comunidade*/
+   font-weight: bold;
+   color: #18be58;
+ }
+  .conteudo p a:hover {
+    text-decoration: underline;
+    
+  }
+
+
+.conteudo ul {
+
+ 
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+ .conteudo ul li {
+   margin: 15px 15px;
+   
+
+ }
+
+ /*Fim estilizacao conteudo*/
+
+
+
+
+ footer {
+  padding: 30px;
+  border-top:1px solid rgba(180, 169, 169, 0.486);
+  
+ }
+
+ footer a {
+   margin-right: 30px;
+ }
