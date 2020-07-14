@@ -1,0 +1,37 @@
+[![N|Solid](https://camo.githubusercontent.com/3841f3ff8a89177dd92d4e29f75fbf9590a1a043/68747470733a2f2f726f636b6574736561742d63646e2e73332d73612d656173742d312e616d617a6f6e6177732e636f6d2f626f6f7463616d702d6c61756e6368626173652e706e67)](https://rocketseat.com.br/)
+
+
+
+O launchbase é um bootcamp que ensina programacao web de um jeito simples e direto.
+
+
+# Desafios do modulo 2, iniciando no front-end
+
+[Iniciando no front-end](https://github.com/Rocketseat/bootcamp-launchbase-desafios-02)
+-
+
+[Desafio:2-2](https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md)
+-
+## Informações da página
+- Uma imagem da logo da empresa
+- O nome da empresa
+- Uma breve descrição da empresa
+- Uma lista com as principais tecnologias utilizadas. Dica: utilize a tag ul para lista e li para o item da lista.
+- Links para as redes sociais da empresa (Github, Instagram e Facebook)
+## Estilização
+__Você tem liberdade para escolher a estilização que preferir para esse desafio, mas alguns pontos são obrigatórios:__
+
+- A imagem deve ter uma borda e um formato circular.
+- Deve ser utilizada a fonte Roboto
+- O  nome da empresa e a imagem devem ser destacar do restante
+- Os links das redes sociais devem ter alguma alteração visual quando o cursor do mouse passar por cima
+
+License
+---
+:rocket: [Rocketseat](https://discord.com/invite/gCRAFhc)
+
+---
+
+### Concluido :white_check_mark:
+
+
