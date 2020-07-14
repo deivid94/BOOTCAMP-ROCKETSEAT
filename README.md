@@ -14,16 +14,10 @@ O launchbase é um bootcamp que ensina programacao web de um jeito simples e dir
 -
 
 [Desafio:2-1](https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-1-primeiro-html.md)
--
-HTML
-- Precisa conter um favicon da rocketseat  e um header com 3 links
+[Desafio:2-2](https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md)
 
-CSS:
- - Um background 
-- Deve ser utilizada a fonte Roboto
-- O header precisa ocupar todo o espaço lateral e superior (body sem margin)
-- O header precisa ter um espaçamento interno de 30px em todas as direções
-- Os links devem ter um espaçamento de 30px entre si
+-
+
 
 
 License
