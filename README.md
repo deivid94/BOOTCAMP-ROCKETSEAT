@@ -19,6 +19,7 @@ O launchbase é um bootcamp que ensina programacao web de um jeito simples e dir
 [Desafio:2-1](https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-1-primeiro-html.md)
 [Desafio:2-2](https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md)
 [Desafio:2-3](https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-3-pagina-cursos-e-iframe.md)
+[Desafio:3-2](https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-3-pagina-cursos-e-iframe.md)
 
 
 
